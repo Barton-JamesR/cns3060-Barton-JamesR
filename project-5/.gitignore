@@ -1,0 +1,21 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# This one is to take out the 'pretty copies'.
+*~
+
+# This should take out the executable while I'm at it...
+cat1
+du1
+simulation
+more1
